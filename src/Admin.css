@@ -1,0 +1,73 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #030303;
+    color: #FFFFFF;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 32px;
+    text-align: center;
+  }
+
+  .custom {
+    text-align: center;
+  }
+  .songChange {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .title {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 25px;
+  }
+  .details {
+    font-size: 25px;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"], input[type="password"], input[type="number"], input[type="email"], input[type="radio"], button {
+    font-size: 16px;
+    border: 1px solid #FFFFFF;
+  }
+  
+  input[type="radio"] {
+    background-color: #FFFFFF;
+  }
+  
+  input[type="radio"]:checked {
+    background-color: #6741D9;
+  }
+  
+  input[type="text"]:disabled, input[type="password"]:disabled, input[type="number"]:disabled, input[type="email"]:disabled, input[type="radio"]:disabled {
+    border-color: #C2C2C2;
+    color: #C2C2C2;
+  }
+  
+  .graph-container {
+    width: 600px;
+  }
+  
+  .login-container, .signup-container, .save-button-container {
+    width: 600px;
+    justify-content: center;
+  }
+  
+  .other-elements {
+    max-width: 300px;
+    width: 5%;
+  }
+  input {
+    width: 98%;
+  }
+  
+  .save-button {
+    background-color: #6741D9;
+  }
+  
+  .save-button:hover, .save-button:active {
+    border: 1px solid #F0C3F1;
+  }
+  
+  
+  

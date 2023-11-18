@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #030303;
+  color: #ffffff;
+  font-size: 16px;
+}
+.login {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 250px;
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 32px;
+  text-align: center;
+}
+
+form {
+  width: 25%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  border-radius: 7px;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ffffff;
+  background-color: black;
+  color: white
+}
+
+button {
+  width: 105%;
+  padding: 10px;
+  background-color: #6741d9;
+  color: #ffffff;
+  cursor: pointer;
+  border: none;
+  border-radius: 7px;
+}
+
+button:hover,
+button:active {
+  border: 1px solid #f0c3f1;
+}
+
+.admin-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.admin-details h3 {
+  margin-bottom: 10px;
+}
+
+.graph-container {
+  width: 600px;
+  margin: 20px auto;
+}
+
+.graph-bar {
+  background-color: #f0c3f1;
+  margin-bottom: 5px;
+}
+
+.greyed-out {
+  background-color: #c2c2c2;
+}
+
+.greyed-out input {
+  border: 1px solid #c2c2c2;
+  color: #c2c2c2;
+}
