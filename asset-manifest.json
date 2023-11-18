@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dhun-jam/static/css/main.20c7c2dc.css",
+    "main.js": "/dhun-jam/static/js/main.4d2ba091.js",
+    "static/js/787.01c899db.chunk.js": "/dhun-jam/static/js/787.01c899db.chunk.js",
+    "index.html": "/dhun-jam/index.html",
+    "main.20c7c2dc.css.map": "/dhun-jam/static/css/main.20c7c2dc.css.map",
+    "main.4d2ba091.js.map": "/dhun-jam/static/js/main.4d2ba091.js.map",
+    "787.01c899db.chunk.js.map": "/dhun-jam/static/js/787.01c899db.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20c7c2dc.css",
+    "static/js/main.4d2ba091.js"
+  ]
+}
